@@ -1,0 +1,29 @@
+body {
+    font-family: 'Google Sans';font-size: 22px;
+}
+.g {
+    color: #4285f4;
+}
+#o2 {
+    color: #FBBC05;
+}
+#l {
+    color: #34AB53;
+}
+#o1, #e {
+    color: #EA4335;
+}
+
+#Google {
+    font-weight: 600;
+    font-size: 100px;
+    font-family: "Google Sans", Arial, sans-serif;
+}
+
+div {
+    height: 100PX;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 
+}
