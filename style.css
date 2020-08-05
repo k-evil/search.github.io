@@ -1,6 +1,7 @@
 body {
     font-family: 'Google Sans';
 }
+/*Main Heading Colour*/
 .g {
     color: #4285f4;
 }
@@ -13,9 +14,11 @@ body {
 #o1, #e {
     color: #EA4335;
 }
+/*Links*/
 #ImageSearch, #AdSearch, #GoogleSearch{
     text-align: right;
 }
+/*Form Elements*/
 #searchbar{
     border-radius: 22px;
     height: 38px;
