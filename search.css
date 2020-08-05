@@ -29,10 +29,8 @@ body {
 }
 #searchbar{
     border-radius: 22px;
-    
     height: 38px;
     border: solid lightgray 1px;
-    
     width: 600px; 
     text-indent: 20px;
     margin-bottom: 20px;
