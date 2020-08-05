@@ -29,10 +29,10 @@ body {
 }
 #searchbar{
     border-radius: 22px;
-    background: white;
+    
     height: 38px;
-    border: white 1px;
-    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .28);
+    border: solid lightgray 1px;
+    
     width: 600px; 
     text-indent: 20px;
     margin-bottom: 20px;
