@@ -22,7 +22,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 151px; 
+    margin-top: 80px;
+    margin-bottom: 49px; 
 }
 #ImageSearch, #AdSearch{
     text-align: right;
@@ -31,12 +32,13 @@ body {
     border-radius: 22px;
     height: 38px;
     border: solid lightgray 1px;
-    width: 600px; 
+    width: 575px; 
     text-indent: 20px;
     margin-bottom: 20px;
     font-size: 15px;
     padding-top: 4px;
     padding-bottom: 4px;
+    margin-bottom: 30px;
 
 }
 .submitbutton{
