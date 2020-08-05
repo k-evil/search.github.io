@@ -5,19 +5,27 @@
         <link rel="stylesheet" href='search.css'>
         <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Google Sans' >
         <style>
-            
+        
             
         </style>
         </head>
     <body>
+        <div id = 'ImageSearch'>
+            <a href = "">Image Search</a>
+        </div>
+        <div id = 'AdSearch'>
+            <a href = "">Advanced Search</a>
+        </div>
         <div id= "Google">
             <Span class="g">G</span><span id= "o1">o</span><span id="o2">o</span><span class="g">g</span><span id="l">l</span><span id="e">e</span>
+        </div >
+        <div id="form">
+            <form action="https://google.com/search" >
+                <input type="text" name="q" placeholder="Search Google or type URL" id = "searchbar" autofocus autocomplete="off">
+                <BR>
+                <input type="submit" value="Google Search" id="GoogleSearch" class="submitbutton">
+                <input type="submit" value="I'm Feeling Lucky" id="Lucky" class="submitbutton">
+            </form>
         </div>
-        
-        <form action="https://google.com/search">
-            <input type="text" name="q" value="Search Google or type URL">
-            <BR>
-            <input type="submit" value="Google Search">
-        </form>
     </body>
 </html>
