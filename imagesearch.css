@@ -1,4 +1,19 @@
 #image{
-    font-size: 10px;
+    font-size: 18px;
     display: flex;
+    text-indent: -70px;
+    color: royalblue;
+    font-weight: 100;
+}
+
+#Google {
+    font-weight: 600;
+    font-size: 84px;
+    font-family: "Google Sans", Arial, sans-serif;
+    height: 100PX;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+    
 }
